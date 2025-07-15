@@ -1,8 +1,9 @@
 [build]
-  command = "cd exampleSite && hugo --gc --minify -D -b https://blowfish.page"
-  publish = "exampleSite/public"
+  command = "hugo --gc --minify -D -b $URL"
+  publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.142.0"
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
+  HUGO_VERSION = "0.142.0"
+  # Remove these if not using theme as submodule
+  # HUGO_THEMESDIR = "themes"
+  # HUGO_THEME = "blowfish"
