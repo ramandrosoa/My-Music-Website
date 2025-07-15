@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presto on Minah Ramandrosoa</title>
+    <link>http://localhost:1313/tags/presto/</link>
+    <description>Recent content in Presto on Minah Ramandrosoa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>minah.ram2000@gmail.com (Minah Ramandrosoa)</managingEditor>
+    <webMaster>minah.ram2000@gmail.com (Minah Ramandrosoa)</webMaster>
+    <copyright>© 2025 Minah Ramandrosoa</copyright>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/presto/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prelude No. 2 &#39;War And Peace&#39; </title>
+      <link>http://localhost:1313/posts/prelude2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <author>minah.ram2000@gmail.com (Minah Ramandrosoa)</author>
+      <guid>http://localhost:1313/posts/prelude2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; A minor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Presto&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instrument:&lt;/strong&gt; Piano&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Minah Ramandrosoa"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  #logo = "img/fireflies.svg"
+  #description = "A powerful, lightweight theme for Hugo."
+
+[params.author]
+  name = "Minah Ramandrosoa"
+  email = "minah.ram2000@gmail.com"
+  image = "img/pdp1.png"
+  headline = "Data Consultant | Music Composer"
+  bio = "Data Consultant | Music Composer"
+  links = [
+    { instagram = "https://www.instagram.com/mufu.composer/reels/" },
+    { github = "https://github.com/ramandrosoa" },
+    { linkedin = "https://linkedin.com/in/minah-ramandrosoa-023490245"}  
+  ]
