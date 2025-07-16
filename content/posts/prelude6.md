@@ -25,7 +25,7 @@ date: '2025-03-25'
 
  ## Download Sheet Music
 
-[Prelude No. 6 in B minor (pdf)](/my-site/static/pdf/Prelude%20No.6%20in%20Bminor.pdf)
+[Prelude No. 6 in B minor (pdf)](/pdf/Prelude%20No.6%20in%20Bminor.pdf)
 
  ## Preview 
  

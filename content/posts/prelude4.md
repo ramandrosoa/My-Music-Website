@@ -24,7 +24,7 @@ date: '2025-03-03'
 
  ## Download Sheet Music
 
-[Prelude No. 4 in E minor (pdf)](/my-site/static/pdf/Prelude%20No.4%20in%20Eminor.pdf)
+[Prelude No. 4 in E minor (pdf)](/pdf/Prelude%20No.4%20in%20Eminor.pdf)
 
  ## Preview 
  
