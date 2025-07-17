@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 7 Sweet Dream"
+title: "Prelude No. 7 'Sweet Dream'"
 draft: false
 description: "Sweet Dream"
 tags: ["sheet","prelude", "piano","larghetto"]

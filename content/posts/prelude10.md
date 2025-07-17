@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.10 'Submersion'"
+title: "Prelude No. 10 'Submersion'"
 draft : false
 description: "Submersion"
 tags: ["sheet","prelude", "piano","adagio"]
