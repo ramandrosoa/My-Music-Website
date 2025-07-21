@@ -151,5 +151,16 @@
       
     </item>
     
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minah.ram2000@gmail.com (Minah Ramandrosoa)</author>
+      <guid>http://localhost:1313/intro/</guid>
+      <description>&lt;p&gt;I’m a data consultant based in Madagascar with a deep passion for classical music.
+Since 2018, I’ve been on a self-taught journey in music, gradually and consistently learning to express myself through the piano. Over time, this path has led me to composing my own pieces.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
