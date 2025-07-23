@@ -1,11 +1,16 @@
-{{/* Simplified Logo/Header Text */}}
 {{ define "HeaderLogo" }}
 <div>
-  <a href="{{ `` | relLangURL }}" class="flex items-center" aria-label="Home">
-    {{ .Site.Params.homeButtonText | default "Home" }}
+  <a href="{{ "/" | relLangURL }}" class="flex items-center" aria-label="Home">
+    <img 
+      src="{{ "icons/home.png" | relURL }}" 
+      alt="Home" 
+      class="inline-block align-text-bottom h-4 w-auto mr-1" />
+      {{ .Site.Params.homeButtonText | default "Home" }}
   </a>
 </div>
 {{ end }}
+
+
 
 {{/* Desktop navigation */}}
 {{ define "HeaderDesktopNavigation" }}
