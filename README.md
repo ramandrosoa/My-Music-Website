@@ -23,4 +23,4 @@ Git & GitHub – Source control and version management.
 
 ## Deployment
 
-The website is live at: [minah-website.netlify.app](minah-website.netlify.app)
+The website is live at: [minah-website.netlify.app](https://minah-website.netlify.app)
