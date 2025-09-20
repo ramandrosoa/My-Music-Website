@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/tags/allegro/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -29,44 +35,38 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/moderato/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/piano/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/prelude/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/prelude13/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/prelude14/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/sheet/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -89,6 +89,18 @@
       hreflang="en"
       href="http://localhost:1313/tags/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/moderato/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/prelude13/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/adantino/</loc>
@@ -165,12 +177,6 @@
   <url>
     <loc>http://localhost:1313/posts/prelude5/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/allegro/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
