@@ -2,7 +2,7 @@
 title: "Prelude No. 2 'War And Peace' "
 draft: false
 description: "War And Peace"
-tags: ["sheet","prelude", "piano","presto"]
+tags: ["sheet","prelude", "piano","presto", "a-minor"]
 date : '2025-02-21'
 ---
 
@@ -23,6 +23,6 @@ Built on the tension and eventual transformation between A minor and A major, it
 
 [Prelude No. 2 in A minor (pdf)](/pdf/Prelude%20No.2%20in%20Aminor.pdf)
 
- ## Preview 
+ ## Listen here 
  
 [Instagram](https://www.instagram.com/p/DGVlCZCvwMf/)

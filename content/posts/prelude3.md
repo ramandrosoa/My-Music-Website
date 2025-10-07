@@ -2,7 +2,7 @@
 title: "Prelude No. 3 'Loop' "
 draft: false
 description: "Loop"
-tags: ["sheet","prelude", "piano","moderato"]
+tags: ["sheet","prelude", "piano","moderato", "g-major"]
 date: '2025-02-26'
 ---
 
@@ -24,6 +24,6 @@ When the music returns to the G major key, it’s not a conclusion but a reset. 
 
 [Prelude No. 3 in G major (pdf)](/pdf/Prelude%20No.3%20in%20Gmajor.pdf)
 
- ## Preview 
+ ## Listen here 
  
 [Instagram](https://www.instagram.com/p/DGif4QMioOT/)

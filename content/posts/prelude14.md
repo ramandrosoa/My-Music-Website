@@ -2,7 +2,7 @@
 title: "Prelude No. 14 'Ricochet'"
 draft : false
 description: "Ricochet"
-tags: ["sheet","prelude", "piano","allegro"]
+tags: ["sheet","prelude", "piano","allegro", "e-flat-minor"]
 date: '2025-09-19'
 ---
 
@@ -22,6 +22,9 @@ Though dynamically restrained, shifting harmonies color the texture with constan
 
 [Prelude No. 14 in E-flat minor (pdf)](/pdf/Prelude%20No.14%20in%20Eflatminor.pdf)
 
- ## Preview 
- [Instagram](https://www.instagram.com/p/DO05EA2DM_o/)
+ ## Listen here 
+ 
+ [Instagram](https://www.instagram.com/p/DO05EA2DM_o/)<br>
+ <br>
+ [YouTube]()
  

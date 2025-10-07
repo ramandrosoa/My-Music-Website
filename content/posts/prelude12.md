@@ -2,7 +2,7 @@
 title: "Prelude No. 12 'Rainstorm'"
 draft : false
 description: "Rainstorm"
-tags: ["sheet","prelude", "piano","adantino"]
+tags: ["sheet","prelude", "piano","adantino","g-sharp-minor"]
 date: '2025-08-25'
 ---
 
@@ -23,6 +23,6 @@ In the central section, the mood turns brighter through modulations to B major, 
 
 [Prelude No. 12 in G-sharp minor (pdf)](/pdf/Prelude%20No.12%20in%20Gsharp%20minor.pdf)
 
- ## Preview 
+ ## Listen here 
  
 [Instagram](https://www.instagram.com/reel/DN8bgqijGGP/)

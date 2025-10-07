@@ -2,7 +2,7 @@
 title: "Prelude No. 1 'Lalala' "
 draft: false
 description: "Lalala"
-tags: ["sheet","prelude", "piano", "allegretto"]
+tags: ["sheet","prelude", "piano", "allegretto", "c-major"]
 date : '2025-02-12'
 ---
 
@@ -22,6 +22,6 @@ Both hands move in unison, echoing each other in a continuous fluid motion, gent
 
  [Prelude No. 1 in C major (pdf)](/pdf/Prelude%20No.1%20in%20Cmajor.pdf)
 
- ## Preview 
+ ## Listen here 
 
 [Instagram](https://www.instagram.com/p/DF-YOtciEa5/)

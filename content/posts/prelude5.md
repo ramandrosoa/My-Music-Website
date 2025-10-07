@@ -2,7 +2,7 @@
 title: "Prelude No. 5 'Wave'"
 draft: false
 description: "Wave"
-tags: ["sheet","prelude", "piano","adagio"]
+tags: ["sheet","prelude", "piano","adagio", "d-major"]
 date: '2025-03-10'
 ---
 
@@ -29,6 +29,6 @@ The main melody, while appearing simple and recurring, reveals delicate shifts a
 
  [Prelude No. 5 in D major (pdf)](/pdf/Prelude%20No.5%20in%20Dmajor.pdf)
 
- ## Preview 
+ ## Listen here 
  
 [Instagram](https://www.instagram.com/p/DHBYvo7CjLq/)

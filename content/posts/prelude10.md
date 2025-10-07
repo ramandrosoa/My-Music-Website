@@ -2,7 +2,7 @@
 title: "Prelude No. 10 'Submersion'"
 draft : false
 description: "Submersion"
-tags: ["sheet","prelude", "piano","adagio"]
+tags: ["sheet","prelude", "piano","adagio","c-sharp-minor"]
 date: '2025-07-01'
 ---
 
@@ -25,6 +25,8 @@ The piece ends on an A minor chord with an augmented fourth. The texture grows l
 
 [Prelude No. 10 in C-sharp minor (pdf)](/pdf/Prelude%20No.10%20in%20Csharpminor.pdf)
 
- ## Preview 
+ ## Listen here 
  
- [Instagram](https://www.instagram.com/reel/DLxNz-LOpEi/)
+ [Instagram](https://www.instagram.com/reel/DLxNz-LOpEi/)<br>
+ <br>
+ [YouTube]()

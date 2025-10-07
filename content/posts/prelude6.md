@@ -2,7 +2,7 @@
 title: "Prelude No. 6 'Inhibition'"
 draft: false
 description: "Inhibition"
-tags: ["sheet","prelude", "piano","vivace"]
+tags: ["sheet","prelude", "piano","vivace", "b-minor"]
 date: '2025-03-25'
 ---
 
@@ -27,6 +27,8 @@ date: '2025-03-25'
 
 [Prelude No. 6 in B minor (pdf)](/pdf/Prelude%20No.6%20in%20Bminor.pdf)
 
- ## Preview 
+ ## Listen here 
  
-[Instagram](https://www.instagram.com/p/DOQ2oaJjA52/)
+[Instagram](https://www.instagram.com/p/DOQ2oaJjA52/)<br>
+ <br>
+[YouTube]()

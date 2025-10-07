@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/e-flat-minor/</loc>
+    <lastmod>2025-09-19T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -91,6 +97,12 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tags/f-sharp-major/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/moderato/</loc>
     <lastmod>2025-08-31T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -109,6 +121,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/g-sharp-minor/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude12/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -116,6 +134,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/allegretto/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/b-major/</loc>
     <lastmod>2025-07-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -133,8 +157,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/c-sharp-minor/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude10/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/e-major/</loc>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -145,8 +181,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/f-sharp-minor/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude8/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/a-major/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -163,6 +211,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/b-minor/</loc>
+    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude6/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -175,8 +229,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/d-major/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude5/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/e-minor/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -187,8 +253,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/g-major/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude3/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/a-minor/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -205,8 +283,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/c-major/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/prelude1/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/fairytale/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
