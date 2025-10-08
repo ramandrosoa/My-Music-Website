@@ -20,13 +20,17 @@
   pageRef = "intro"
   weight = 15
 
-
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/@Minah-Rama"
+  weight = 200 
 
 [[main]]
   identifier = "instagram"
   pre = "instagram"
   url = "https://www.instagram.com/mufu.composer/reels/"
-  weight = 200
+  weight = 400
 
 
 [[main]]

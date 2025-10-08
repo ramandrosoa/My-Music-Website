@@ -1,5 +1,5 @@
 ---
-title: "Fairy Tale Op. 1"
+title: "Op. 1 'Fairy Tale'"
 draft : false
 description: "Fairy Tale"
 tags: ["sheet", "piano","adantino", "e-major"]
