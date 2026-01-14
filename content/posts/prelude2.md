@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 2 'War And Peace' "
+title: "Prelude Op.2 No. 2 'War And Peace' "
 draft: false
 description: "War And Peace"
 tags: ["sheet","prelude", "piano","presto", "a-minor"]

@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 14 'Ricochet'"
+title: "Prelude Op.2 No. 14 'Ricochet'"
 draft : false
 description: "Ricochet"
 tags: ["sheet","prelude", "piano","allegro", "e-flat-minor"]

@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 12 'Rainstorm'"
+title: "Prelude Op.2 No. 12 'Rainstorm'"
 draft : false
 description: "Rainstorm"
 tags: ["sheet","prelude", "piano","adantino","g-sharp-minor"]

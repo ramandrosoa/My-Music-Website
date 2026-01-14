@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 1 'Lalala' "
+title: "Prelude Op.2 No. 1 'Lalala' "
 draft: false
 description: "Lalala"
 tags: ["sheet","prelude", "piano", "allegretto", "c-major"]

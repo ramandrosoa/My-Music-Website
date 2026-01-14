@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 5 'Wave'"
+title: "Prelude Op.2 No. 5 'Wave'"
 draft: false
 description: "Wave"
 tags: ["sheet","prelude", "piano","adagio", "d-major"]

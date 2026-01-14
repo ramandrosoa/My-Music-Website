@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 9 'Mary And Jo had a Lamb'"
+title: "Prelude Op.2 No. 9 'Mary And Jo had a Lamb'"
 draft : false
 description: "Mary and Jo had a Lamb"
 tags: ["sheet","prelude", "piano","adantino", "e-major"]

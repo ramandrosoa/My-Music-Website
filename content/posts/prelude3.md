@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 3 'Loop' "
+title: "Prelude Op.2 No. 3 'Loop' "
 draft: false
 description: "Loop"
 tags: ["sheet","prelude", "piano","moderato", "g-major"]

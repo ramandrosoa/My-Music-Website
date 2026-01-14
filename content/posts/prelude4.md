@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 4 'What Ifs'"
+title: "Prelude Op.2 No. 4 'What Ifs'"
 draft: false
 description: "What Ifs"
 tags: ["sheet","prelude", "piano","allegro", "e-minor"]

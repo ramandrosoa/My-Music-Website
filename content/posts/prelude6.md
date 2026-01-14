@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 6 'Inhibition'"
+title: "Prelude Op.2 No. 6 'Inhibition'"
 draft: false
 description: "Inhibition"
 tags: ["sheet","prelude", "piano","vivace", "b-minor"]
